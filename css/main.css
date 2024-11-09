@@ -2885,6 +2885,13 @@ html.no-csstransitions .home-content__main {
   -ms-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
+.masonry__brick:hover .item-folio__text {
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
 
 /* ------------------------------------------------------------------- 
  * responsive:
